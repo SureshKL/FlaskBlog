@@ -2,8 +2,9 @@
 __pycache__/
 *.py[cod]
 
-# PyCharm
+# PyCharm / Visual Studio Code
 .idea/
+.vscode/
 
 # Virtual Environment
 venv/
